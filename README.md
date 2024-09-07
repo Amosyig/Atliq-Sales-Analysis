@@ -35,14 +35,24 @@ The main part of the data model is a star schema, consisting of 1 fact table and
 ## Visualization:
 
 The report comprises of 6 pages:
-1. Summary 
-2. Profit Margin
-3. Revenue
-4. Profit
-5. Qty. Sold
-6. Customers
+1. Summary:
+![dashboard_1](https://github.com/user-attachments/assets/d2156bf5-d5dd-4238-b245-5ed975bdaa65)
+2. Profit Margin:
+![dashboard_2](https://github.com/user-attachments/assets/b7c75465-28e9-4b27-8890-b162eda02bff)
 
-![horizontal_whole_dashboard](https://github.com/user-attachments/assets/62d670a1-fe02-414d-b170-dc556bde8107)
+3. Revenue:
+   ![dashboard_3](https://github.com/user-attachments/assets/8a4eb394-ef4f-4789-8a80-b44e40b9da59)
+
+4. Profit:
+   ![dashboard_4](https://github.com/user-attachments/assets/f11f0711-b41e-4977-b2bc-9923dfd5ad35)
+
+5. Qty. Sold:
+    ![dashboard_5](https://github.com/user-attachments/assets/dddc314a-eb5c-4077-a778-89732a19d961)
+
+6.  Customers:
+    ![dashboard_6](https://github.com/user-attachments/assets/bc6996f8-6b0b-4913-be4f-e248a544bf0f)
+
+
 
 
 
@@ -69,7 +79,6 @@ Out of 2.43 million units sold, the North region led with 1.27 million units, fo
 
 ## Conclusion and Recommendations:
 
-This is a link to a medium post for more details: 
-![Lorem Ipsum]()
+ for a more detailed post on the walkthrough, here is a post that does that :https://www.datascienceportfol.io/yole_amos/projects/0
 
 Thanks!
